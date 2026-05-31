@@ -1,0 +1,7 @@
+# Roblox Studioの自動保存やロックファイル
+*.rbxl.lock
+*.tmp
+*.log
+.DS_Store
+# Rojoの一時ファイル
+.rojo/
